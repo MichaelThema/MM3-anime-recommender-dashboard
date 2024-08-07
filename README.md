@@ -155,8 +155,8 @@ Congratulations! You've now officially deployed your first web application!
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
 
-|| Name                                                                                    |  Email              
-|-----------------------------------------------------------------------------------------|--------------------             
+| Name                                                                                    |  Email              
+|-----------------------------------------------------------------------------------------|--------------------------------             
 | [Thobile Mvuni](https://github.com/ThobMvuni)                                           | thoyomvuni@gmail.com
 | [Michael Thema](https://github.com/MichaelThema)                                        | michaelthema@gmail.com
 | [Nolwazi Mndebele](https://github.com/NolwaziMND)                                       | mndebelenf@gmail.com
