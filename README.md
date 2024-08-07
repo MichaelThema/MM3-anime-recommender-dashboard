@@ -100,7 +100,7 @@ For this repository, we are only concerned with a single file:
 
 | File Name              | Description                       |
 | :--------------------- | :--------------------             |
-| `base_app.py`          | Streamlit application definition. |
+| `app.py`               | Streamlit application definition. |
 The Streamlit Repo additionally has the pickled models used in the app, the pickled vectoriser and the test.csv 
 ## Usage Instructions
 
@@ -126,8 +126,8 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 - Navigate to the base of your repo where your base_app.py is stored, and start the Streamlit app.
 
  ```bash
- cd 2401FTDS_Classification_Project/Streamlit/
- streamlit run base_app.py
+ cd MM3-animme-recommender-dashboard-/Streamlit/
+ streamlit run app.py
  ```
 
  If the web server was able to initialise successfully, the following message should be displayed within your bash/terminal session:
@@ -154,13 +154,6 @@ Congratulations! You've now officially deployed your first web application!
 - Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
-
-- Mogafe Mogale - nalediandriena@gmail.com
-                        - Nolwazi Mndebele - mndebelenf@gmail.com
-                        - Nontuthuko Mpanza - nontuthukompanza@outlook.com
-                        - Seneme Mpungose - senemempungose16@gmail.com
-                        - Michael Thema - michaelthema@gmail.com
-                         - c - thoyomvuni@gmail.com
 
 | Name                                           |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
