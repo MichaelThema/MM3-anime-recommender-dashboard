@@ -155,11 +155,11 @@ Congratulations! You've now officially deployed your first web application!
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
 
-| Name                                           |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             
-| [Mogafe Mogale]                               | nalediandriena@gmail.com
-| [Nolwazi Mndebele]                            | mndebelenf@gmail.com
-| [Nontuthuko Mpanza]                           | nontuthukompanza@outlook.com
-| [Seneme Mpungose]                             | senemempungose16@gmail.com
-| [Michael Thema]                               | michaelthema@gmail.com
-| [Thobile Mvuni]                               | thoyomvuni@gmail.com
+|| Name                                                                                    |  Email              
+|-----------------------------------------------------------------------------------------|--------------------             
+| [Thobile Mvuni](https://github.com/ThobMvuni)                                           | thoyomvuni@gmail.com
+| [Michael Thema](https://github.com/MichaelThema)                                        | michaelthema@gmail.com
+| [Nolwazi Mndebele](https://github.com/NolwaziMND)                                       | mndebelenf@gmail.com
+| [Nontuthuko Mpanza](https://github.com/Nontu98)                                         | nontuthukompanza@outlook.com
+| [Seneme Mpungose](https://github.com/Seeneemee)                                         | senemempungose16@gmail.com
+| [mogafe mogale](https://github.com/Andriena)                                            | nalediandriena@gmail.com
