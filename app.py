@@ -13,12 +13,23 @@ def load_models_and_data():
     anime_df_path = 'anime_df.csv'
     train_df_path = 'train_df.csv'
 
-    with open(final_model_path, 'rb') as file:
-        final_model = joblib.load(file)
+     #Load final_model.pkl from a zip archive
+    with zipfile.ZipFile('final_model.zip', 'r') as z:
+        with z.open(final_model_path) as file:
+            final_model = joblib.load(file)
+    
+    #Load tfidf_vectorizer.pkl directly
     with open(tfidf_vectorizer_path, 'rb') as file:
         tfidf_vectorizer = joblib.load(file)
+    
+    #Load train_df.csv from a zip archive
+    with zipfile.ZipFile('train_df.zip', 'r') as z:
+        with z.open(train_df_path) as file:
+            train_df = pd.read_csv(file)
+    
+    # Load anime_df.csv directly
     anime_df = pd.read_csv(anime_df_path)
-    train_df = pd.read_csv(train_df_path)
+    
     return final_model, tfidf_vectorizer, anime_df, train_df
 
 def plot_correlation_matrix(df):
