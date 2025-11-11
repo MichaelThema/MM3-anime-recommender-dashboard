@@ -32,6 +32,13 @@ Well, you are about to find out! In this project, we build a collaborative and c
 Dataset Overview
 The dataset consists of thousands of users and thousands of anime titles, gathered from myanimelist.net.
 
+## Business Applications
+This recommendation engine demonstrates skills directly applicable to:
+- **E-commerce:** Product recommendation systems
+- **Media Platforms:** Content discovery and personalization  
+- **Marketing:** Customer preference modeling and targeted campaigns
+- **User Engagement:** Increasing platform stickiness through smart suggestions
+
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`. You can find both the `train.csv` and `test.csv` datasets [here](https://github.com/ereshia/2401FTDS_Classification_Project/tree/main/Data/processed).
 
